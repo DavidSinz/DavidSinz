@@ -1,6 +1,8 @@
 # 👋 Hi, I'm David Sinz
 
-I'm a passionate programmer, and currently I'm learning frontend development with React. I studied media informatics and information science at the university of Regensburg Bavaria. Aside of programming, I'm interested in yoga, meditation and a healthy lifestyle. 
+I’m a passionate programmer and I always seek new challenges, so that I can expand my experience and skill. I completed my studies in Media Informatics and Information Science. During my studies I learned all about Human Computer Interaction and UX. Furthermore, I learned multiple programming technologies, especially in web development. 
+
+I am an extremely motivated person and want to constantly develop my skills and grow professionally. I have a positive and productive work ethic and I am always eager to deliver quality results. .
 
 ### 💻 Projects i'm currently working on:
 
