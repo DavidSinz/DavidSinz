@@ -8,6 +8,7 @@ I am an extremely motivated person and constantly want to develop and grow profe
 
 - Building my own website [davidsinz.com](http://davidsinz.com/) with React.
 - Creating a general CSS style sheet for my web apps.
+- Building a link tester with Selenium and automated testing
 
 ### 🎯 My general goals are:
 
