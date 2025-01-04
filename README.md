@@ -7,4 +7,4 @@ With hands-on experience in Quality Engineering, I have worked with several test
 💻 **Projects I'm currently working on**:
 - Building **Test Automation** with **Selenium**, **Cucumber**, and **Java** integrated with **Jenkins** and **Zephyr** in **JIRA**.
 
-📫 **Feel free to contact me** on [LinkedIn](https://www.linkedin.com/in/david-sinz-492170202/) or send me an E-Mail to [davidsinz@gmx.net](mailto:davidsinz@gmx.net).
+📫 **Feel free to contact me** on [LinkedIn](https://www.linkedin.com/in/david-sinz/) or send me an E-Mail to [davidsinz@gmx.net](mailto:davidsinz@gmx.net).
