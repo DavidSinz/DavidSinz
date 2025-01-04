@@ -7,7 +7,4 @@ With hands-on experience in Quality Engineering, I have worked with several test
 💻 **Projects I'm currently working on**:
 - Building **Test Automation** with **Selenium**, **Cucumber**, and **Java** integrated with **Jenkins** and **Zephyr** in **JIRA**.
 
-🎯 **My general goals are**:
-- Day by day, I aim to become a better programmer and learn more skills. My ultimate goal is to become an expert and help develop efficient and beautiful software. Additionally, I want to work in a tech company to improve products and expand my programming knowledge and experience.
-
 📫 **Feel free to contact me** on [LinkedIn](https://www.linkedin.com/in/david-sinz-492170202/) or send me an E-Mail to [davidsinz@gmx.net](mailto:davidsinz@gmx.net).
